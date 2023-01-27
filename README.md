@@ -1,4 +1,4 @@
-### Javierlo </dev> personal Repository
+### Javierlo.dev personal Repository
 
 In this space, I have some projects made in my free time.
 
